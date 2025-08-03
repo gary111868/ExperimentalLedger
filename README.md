@@ -1,2 +1,1 @@
-# ExperimentalLedger
-Professional ExperimentalLedger infrastructure with ExperimentalLedger-optimized scalable-architecture and enterprise cloud-ready capabilities
+.
